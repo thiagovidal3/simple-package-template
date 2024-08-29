@@ -1,7 +1,7 @@
-# package_name
+# Oi
 
 Description. 
-The package package_name is used to:
+O pacote retorna a mensagem "Oi".
 	- 
 	-
 
@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Thiago
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
