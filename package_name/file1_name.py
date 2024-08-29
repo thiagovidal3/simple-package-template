@@ -1,2 +1,2 @@
 def oi():
-  return 'Oi'
+  return 'Oi!'
