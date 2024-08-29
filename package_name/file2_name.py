@@ -1,0 +1,2 @@
+def tchau():
+  return 'Tchau!'
