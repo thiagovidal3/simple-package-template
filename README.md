@@ -1,11 +1,11 @@
 # Oi
 
-Description. 
-O pacote retorna a mensagem "Oi".
+Descrição. 
+O pacote retorna a mensagem "Oi" e a mensagem "Tchau".
 	- 
 	-
 
-## Installation
+## Instalação
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
@@ -13,15 +13,16 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 pip install package_name
 ```
 
-## Usage
+## Uso
 
 ```python
 from package_name import file1_name
-file1_name.my_function()
+file1_name.oi()
+file2_name.tchau()
 ```
 
-## Author
+## Autor
 Thiago
 
-## License
+## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
